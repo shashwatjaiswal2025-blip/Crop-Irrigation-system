@@ -13,7 +13,7 @@ Untethered Indoor Navigation: Bypass the limitations of indoor GPS by using IMU 
 
 
 
-##Software Stack
+# Software Stack
 Edge Firmware: C/C++ via Arduino IDE/ESP-IDF handling Wi-Fi (WiFi.h), IMU sensor fusion, and hardware PWM for motor speed control.
 
 Data Pipeline & Backend: Python Flask or FastAPI to broker the HTTP requests between the rover and the AI.
@@ -38,7 +38,7 @@ Hours 32–36 (Polish & Pitch): Clean up wire management, finalize the dashboard
 
 
 
-#Hardware Stack
+# Hardware Stack
 
 ESP32 Development Board
 The Power Architecture:
